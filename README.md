@@ -1,16 +1,30 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Tlhalefo
 
-<!--
-**TlhalefoKgari/TlhalefoKgari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer
 
-Here are some ideas to get you started:
+I build systems from the database all the way up to the interface but if you catch me in my element, it's in the UI. I care deeply about how things look, how they feel, and how they work. Clean interfaces, clean code, clean architecture. Enterprise-grade everything 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### In case you were wondering
+
+- 💻 I work across the full stack — C#, ASP.NET Core, SQL Server on the backend, JavaScript, jQuery and Bootstrap on the front
+- 🎨 I'm a UI Developer at heart — I believe the interface is where the real conversation with the user happens
+- 🌱 Currently expanding into React and building side projects that scratch my own itch
+
+---
+
+### What I work with
+
+**Languages & Frameworks**
+C# · ASP.NET Core · JavaScript · jQuery · Bootstrap · HTML5 · CSS3
+
+**Database**
+SQL Server · T-SQL · Stored Procedures · Dapper
+
+**Cloud & Tools**
+Azure · Azure DevOps · Git · Figma
+
+---
+
+<p align="center"><em>⚡ Do you catch my drift? ⚡</em></p>
