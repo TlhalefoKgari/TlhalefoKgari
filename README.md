@@ -10,8 +10,7 @@ I build systems from the database all the way up to the interface but if you cat
 
 - 💻 I work across the full stack — C#, ASP.NET Core, SQL Server on the backend, JavaScript, jQuery and Bootstrap on the front
 - 🎨 I'm a UI Developer at heart — I believe the interface is where the real conversation with the user happens
-- 🌱 Currently expanding into React and building side projects that scratch my own itch
-
+- 🌱 Currently expanding into React and building side projects that actually interest me
 ---
 
 ### What I work with
