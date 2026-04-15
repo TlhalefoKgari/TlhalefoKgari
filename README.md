@@ -16,10 +16,10 @@ I build systems from the database all the way up to the interface but if you cat
 ### What I work with
 
 **Languages & Frameworks**
-C# · ASP.NET Core · JavaScript · jQuery · Bootstrap · HTML5 · CSS3
+C# · ASP.NET Core · Dapper · JavaScript · jQuery · Bootstrap · HTML5 · CSS3
 
 **Database**
-SQL Server · T-SQL · Stored Procedures · Dapper
+SQL Server · T-SQL · Stored Procedures 
 
 **Cloud & Tools**
 Azure · Azure DevOps · Git · Figma
