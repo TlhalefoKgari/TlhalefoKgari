@@ -2,7 +2,7 @@
 
 I'm a Software Developer
 
-I build systems from the database all the way up to the interface but if you catch me in my element, it's in the UI. I care deeply about how things look, how they feel, and how they work. Clean interfaces, clean code, clean architecture. Enterprise-grade everything 🔥
+I build systems from the database all the way up to the interface but if you catch me in my element, it's in the UI. I care deeply about how things look, how they feel, and how they work. Clean interfaces, clean code, clean architecture.
 
 ---
 
